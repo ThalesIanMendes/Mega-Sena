@@ -1,5 +1,11 @@
-# Mega-Sena
----
- ##Numeros da Mega..
- Este programa sorteia aleatoriamente os 6 numeros da mega sena e os disponibiliza em ordem crescente!
- Apos o resultado ele salva os numeros em um arquivo Txt externo...
+# Mega-sena (python)
+ python
+
+
+## 🚀 
+
+- ✔️ Cabeçalhos usando (def) Funções.
+- ✔️ Uso dos modulos Random e Time.
+- ✔️ uso basico de Proposição com (if).
+
+## 😃 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/thales-ian-carlesso-975014214/)
